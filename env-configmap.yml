@@ -4,10 +4,10 @@ metadata:
   name: env-config
   namespace: default
 data:
-  POSTGRES_HOST: postgres.c7diagpvcf3u.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: postgres.cxent5n6ztzd.eu-central-1.rds.amazonaws.com
   POSTGRES_DB: postgres
-  AWS_MEDIA_BUCKET: workbucklol
-  AWS_REGION: us-west-1
+  AWS_MEDIA_BUCKET: workbuckloll
+  AWS_REGION: eu-central-1
   AWS_PROFILE: default
   JWT_SECRET: hello
   URL: http://localhost:8100
