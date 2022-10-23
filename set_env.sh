@@ -2,10 +2,10 @@
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
 export POSTGRES_USERNAME=postgres
 export POSTGRES_PASSWORD=postgres
-export POSTGRES_HOST=postgres.c6b1wrhdyaus.us-west-1.rds.amazonaws.com
+export POSTGRES_HOST=postgres.cgstwbgxwhx0.us-east-1.rds.amazonaws.com
 export POSTGRES_DB=postgres
-export AWS_MEDIA_BUCKET=finalbucketsid
-export AWS_REGION=us-west-1
+export AWS_MEDIA_BUCKET=sidaminbuck
+export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=hello
 export URL=http://localhost:8100
